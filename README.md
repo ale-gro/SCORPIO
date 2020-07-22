@@ -1,2 +1,2 @@
 # SCORPIO
-Scorpio docs, software and manuals
+This is work repository for SCORPIO docs, software and manuals
